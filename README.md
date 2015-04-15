@@ -4,3 +4,4 @@
 
 ## Homework Assignment: Imaginary dating profile for fictitious character, Aeon Flux
 - HTML, CSS, jQuery
+- Deployed to GitHub Pages: http://npupillo.github.io/fewd33-dating-profile
