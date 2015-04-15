@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".thumb").click(function(){$("#bigimage").fadeOut(100),$("#bigimage").attr("src",$(this).attr("src")),$("#bigimage").fadeIn(300)})});
